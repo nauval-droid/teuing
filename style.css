@@ -1,0 +1,7 @@
+hr {
+    width: 300px;
+    border-top: 3.5px solid #333;
+}
+section {
+    min-height: 420px;
+}
